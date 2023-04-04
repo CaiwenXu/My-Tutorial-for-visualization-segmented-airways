@@ -3,7 +3,7 @@ Useful links about ITK-SNAP and ParaView:
 https://cloud.tencent.com/developer/article/1631058
 
 ## Steps:
-### 1. Using ITK-SNAP to export the segmented area as the .vtk files. In this example, we have three labels in red, green, and blue.
+### 1. Use ITK-SNAP to export the segmented area as the .vtk files. In this example, we have three labels in red, green, and blue.
 
 ![](demos/im1.png)
 
