@@ -1,2 +1,2 @@
 # Tutorial-for-visualization-segmented-airways
-![](demo/img1.jpg)
+![](demos/img1.png)
